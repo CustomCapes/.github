@@ -39,7 +39,6 @@ Forge & Fabric mod loader. <br>
 <!-- GETTING STARTED -->
 ## Credits:
 
-<br>
 - <a target="_blank" href="https://icons8.com">Icons8</a>
 <br>
 - <a target="_blank" href="https://www.wombo.art">Dream AI</a> 
