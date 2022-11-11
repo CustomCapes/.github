@@ -68,15 +68,6 @@ See the [Request new features or updates](https://github.com/ccetl/CustomCapesFo
 
 <p align="right">(<a href="#top">back to top</a>)
 
-
-<!-- LICENSE -->
-## License
-
-Copyright (c) 2022 ccetl <br>
-All rights reserved!
-
-<p align="right">(<a href="#top">back to top</a>)
-
 <!-- CONTACT -->
 ## Contact
 
