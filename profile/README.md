@@ -92,8 +92,7 @@ See the [Request new features or updates](https://github.com/ccetl/CustomCapesFo
 ## License
 
 Copyright (c) 2022 ccetl <br>
-All rights reserved! YOU ARE NOT ALLOWED TO MODIFY, DISTRIBUTE OR USE THE <br>
-CODE WITHOUT PERMISSION! <br>
+All rights reserved!
 
 <p align="right">(<a href="#top">back to top</a>)
 
