@@ -40,17 +40,10 @@ Forge & Fabric mod loader. <br>
 ## Credits:
 
 <br>
-- <a target="_blank" href="https://icons8.com/icon/97911/wi-fi-disconnected">Wi-Fi Disconnected</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
--<br>
-- <a target="_blank" href="https://icons8.com/icon/Myn8d0X7OhS3/wi-fi-off">Wi-Fi off</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+- <a target="_blank" href="https://icons8.com">Icons8</a>
 <br>
-- <a target="_blank" href="https://icons8.com/icon/41406/cloud-cross">Cloud Cross</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+- <a target="_blank" href="https://www.wombo.art">Dream AI</a> 
 <br>
-- Dream AI 
-<br>
-- Silke Pilon for the api 
-<br>
-- <a target="_blank" href="https://icons8.com/icon/15478/checkmark">Checkmark</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 
 
