@@ -1,12 +1,124 @@
-## Hi there 👋
+<div id="top"></div>
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+
+
+<!-- PROJECT LOGO -->
+<h1 align="center">The CustomCapes Project</h1>
+
+  <p align="center">
+  <a href="https://github.com/ccetl/TheCustomCapesProject/tree/api-v1">Go to the api</a> <br>
+  <a href="https://github.com/ccetl/TheCustomCapesProject/tree/fabric-1.19.2">Go to Fabric 1.19.2</a> <br>
+  <a href="https://github.com/ccetl/TheCustomCapesProject/tree/forge-1.19.2">Go to Forge 1.19.2</a> <br>
+  <a href="https://github.com/ccetl/TheCustomCapesProject/tree/forge-1.12.2">Go to Forge 1.12.2</a> <br>
+  </p>
+
+  <p align="center">
+   implement the cusomcapes api in Forge and Fabric.
+    <br />
+    <a href="https://customcapes.org/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/ccetl/CustomCapesForge/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ccetl/CustomCapesForge/issues">Request Feature</a>
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+The CustomCapes mod is a mod implementing CustomCapes.org into Minecraft using the <br>
+Forge & Fabric mod loader. <br>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
+
+
+<!-- GETTING STARTED -->
+## Credits:
+
+<br>
+- <a target="_blank" href="https://icons8.com/icon/97911/wi-fi-disconnected">Wi-Fi Disconnected</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+-<br>
+- <a target="_blank" href="https://icons8.com/icon/Myn8d0X7OhS3/wi-fi-off">Wi-Fi off</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<br>
+- <a target="_blank" href="https://icons8.com/icon/41406/cloud-cross">Cloud Cross</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<br>
+- Dream AI 
+<br>
+- Silke Pilon for the api 
+<br>
+- <a target="_blank" href="https://icons8.com/icon/15478/checkmark">Checkmark</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+
+
+
+
+
+<!-- Installing -->
+## Installing
+
+
+
+Go to [the Forge website](https://files.minecraftforge.net/net/minecraftforge/forge/) and select the Minecraft version you wish to get Forge for from the list. <br>
+*The CustomCapes mod curently supports versions 1.12.2 & 1.19.2
+
+You can download the installer for the Recommended Build or the Latest build there. Latest builds may have newer features but may be more unstable as a result. The installer will attempt to install Forge into your vanilla launcher environment, where you can then create a new profile using that version. Then start up the game. When the Minecraft title screen shows, close the game and navigate to your Minecraft instalation folder. Open the "mods" folder and copy the .jar into it. Thats all. Now when you start up your game you can enjoy your custom capes! Make sure to [register](https://customcapes.org/signup) your username!
+
+<p align="right">(<a href="#top">back to top</a>)
+
+## Request a new feature or update
+
+to request a feuate or update make a issue with a clear discripton of your feature or update with the tag "New Feature or Update"
+
+See the [Request new features or updates](https://github.com/ccetl/CustomCapesForgeissues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)
+
+
+<!-- LICENSE -->
+## License
+
+Copyright (c) 2022 ccetl <br>
+All rights reserved! YOU ARE NOT ALLOWED TO MODIFY, DISTRIBUTE OR USE THE <br>
+CODE WITHOUT PERMISSION! <br>
+
+<p align="right">(<a href="#top">back to top</a>)
+
+<!-- CONTACT -->
+## Contact
+
+ccetl - ccetl#3198<br>
+Silke Pilon - team@oanna-os
+
+>Modrinth    : <br>
+> Curseforge :
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/ccetl/CustomCapesForge.svg?style=for-the-badge
+[contributors-url]: https://github.com/ccetl/CustomCapesForge/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ccetl/CustomCapesForge.svg?style=for-the-badge
+[forks-url]: https://github.com/ccetl/CustomCapesForge/network/members
+[stars-shield]: https://img.shields.io/github/stars/ccetl/CustomCapesForge.svg?style=for-the-badge
+[stars-url]: https://github.com/ccetl/CustomCapesForge/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ccetl/CustomCapesForge.svg?style=for-the-badge
+[issues-url]: https://github.com/ccetl/CustomCapesForge/issues
+[license-shield]: https://img.shields.io/github/license/ccetl/CustomCapesForge.svg?style=for-the-badge
+[license-url]: https://github.com/ccetl/CustomCapesForge/blob/master/LICENSE.md
+[product-screenshot]: images/screenshot.png
+<div id="top"></div>
