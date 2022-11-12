@@ -75,7 +75,7 @@ ccetl - ccetl#3198<br>
 Silke Pilon - team@oanna-os
 
 >Modrinth    : <br>
-> Curseforge :
+> Curseforge : https://www.curseforge.com/minecraft/mc-mods/customcapes
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
