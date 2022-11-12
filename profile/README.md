@@ -4,7 +4,7 @@
 <h1 align="center">The CustomCapes Project</h1>
 
   <p align="center">
-  <a href="https://github.com/ccetl/TheCustomCapesProject/tree/api-v1">Go to the api</a> <br>
+  <a href="https://github.com/CustomCapes/TheCustomCapes-API">Go to the api</a> <br>
   <a href="https://github.com/ccetl/TheCustomCapesProject/tree/fabric-1.19.2">Go to Fabric 1.19.2</a> <br>
   <a href="https://github.com/ccetl/TheCustomCapesProject/tree/forge-1.19.2">Go to Forge 1.19.2</a> <br>
   <a href="https://github.com/ccetl/TheCustomCapesProject/tree/forge-1.12.2">Go to Forge 1.12.2</a> <br>
