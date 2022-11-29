@@ -72,7 +72,7 @@ See the [Request new features or updates](https://github.com/ccetl/CustomCapesFo
 ## Contact
 
 ccetl - ccetl#3198<br>
-Silke Pilon - team@oanna-os
+Silke Pilon - dev@customcapes.org
 
 >Modrinth    : <br>
 > Curseforge : https://www.curseforge.com/minecraft/mc-mods/customcapes
